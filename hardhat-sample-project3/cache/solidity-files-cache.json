@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\djpke\\IdeaProjects\\blockchain-typescript\\hardhat-sample-project3\\contracts\\Hello.sol": {
+      "lastModificationDate": 1695698150269,
+      "contentHash": "f5a2e8768d00b8eccfb285c530f119f4",
+      "sourceName": "contracts/Hello.sol",
+      "solcConfig": {
+        "version": "0.8.8",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Hello"
+      ]
+    }
+  }
+}

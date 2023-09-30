@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hardhat-sample/hardhat-sample.iml" filepath="$PROJECT_DIR$/hardhat-sample/hardhat-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hardhat-sample-project1/hardhat-sample-project1.iml" filepath="$PROJECT_DIR$/hardhat-sample-project1/hardhat-sample-project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hardhat-sample-project2/hardhat-sample-project2.iml" filepath="$PROJECT_DIR$/hardhat-sample-project2/hardhat-sample-project2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hardhat-sample-project3.iml" filepath="$PROJECT_DIR$/hardhat-sample-project3.iml" />
+    </modules>
+  </component>
+</project>
